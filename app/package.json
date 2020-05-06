@@ -9,6 +9,7 @@
         "start": "electron ."
     },
     "dependencies": {
-        "bootstrap": "^4.4.1"
+        "bootstrap": "^4.4.1",
+        "handsontable": "^7.4.2"
     }
 }
